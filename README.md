@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jayanthshimoga/jayanthshimoga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi there! 👋 I'm Jayanth Shimoga Nagaraj</h1>
+
+<p align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night</p>
+
+<br>
+
+- 🔭 I’m currently working on **Docker, Kubernetes and GenAI**
+- 🌱 I’m currently exploring **Deep Learning, Natural Language Processing**
+- 👯 I’m open to collaborations on **Data Engineering and AI/ML Projects**
+- 💬 Ask me about **AWS, Algorithms, Python, Data Engineering**
+- 📫 How to reach me: **jayanthzlak@gmail.com**
+- ⚡ Certification: **AWS Certified Associate Architect**
+
+<br>
+<hr>
+
+[![An image of @jayanthzlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanthzlak)](https://holopin.io/@jayanthzlak)
+
+<br>
+

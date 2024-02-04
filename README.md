@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jayanthshimoga)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayanthshimoga)](https://github.com/jayanthshimoga/github-profile-trophy)
 
 <br>
 

@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br>
 <hr>
 
-[![An image of @jayanthzlak's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayanthzlak)](https://holopin.io/@jayanthzlak)
+https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png
 
 <br>
 

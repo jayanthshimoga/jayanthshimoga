@@ -27,14 +27,29 @@ Here are some ideas to get you started:
 
 <br>
 
-- 🔭 I’m currently working on **Docker, Kubernetes and GenAI**
-- 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
-- 👯 I’m open to collaborations on **Data Engineering and AI/ML Projects**
-- 💬 Ask me about **AWS, Algorithms, Python, Data Engineering**
-- 📫 How to reach me: **jayanthzlak@gmail.com**
-- ⚡ Certification: **AWS Certified Associate Architect**
+🔭 I’m currently working on **Docker, Kubernetes and GenAI**
+🌱 I’m currently learning **Deep Learning, Natural Language Processing**
+👯 I’m open to collaborations on **Data Engineering and AI/ML Projects**
+💬 Ask me about **AWS, Algorithms, Python, Data Engineering**
+📫 How to reach me: **jayanthzlak@gmail.com**
+⚡ Certification: **AWS Certified Associate Architect**
 
 <br>
+
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:jayanthzlak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/jayanthzlak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://jayanthshimoga.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
 <hr>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jayanthshimoga&theme=flat)](https://github.com/jayanthshimoga/github-profile-trophy)

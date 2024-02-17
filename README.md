@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fredoka&size=35&color=583AF7&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jayanth+Shimoga+Nagaraj!;" />
 </h1>
 
-<p align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night from Canada 🇨🇦</p>
+<p align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night</p>
 
 <br/>
 

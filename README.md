@@ -28,10 +28,15 @@ Here are some ideas to get you started:
 <br>
 
 🔭 I’m currently working on **Docker, Kubernetes and GenAI**
+
 🌱 I’m currently learning **Deep Learning, Natural Language Processing**
+
 👯 I’m open to collaborations on **Data Engineering and AI/ML Projects**
+
 💬 Ask me about **AWS, Algorithms, Python, Data Engineering**
+
 📫 How to reach me: **jayanthzlak@gmail.com**
+
 ⚡ Certification: **AWS Certified Associate Architect**
 
 <br>

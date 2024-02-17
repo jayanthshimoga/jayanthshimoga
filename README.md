@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jayanth+Shimoga+Nagaraj!;" />
 </h1>
 
-<h4 align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night from Canada 🇨🇦</h4>
+<p align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night from Canada 🇨🇦</p>
 
 <br/>
 
@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there! 👋 I'm Jayanth Shimoga Nagaraj</h1>
-
-<p align="center">Data Platform Engineer, AI and ML enthusiast, Stand-up Coder by night</p>
 
 <br>
 
